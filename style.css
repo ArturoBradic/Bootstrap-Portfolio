@@ -111,4 +111,13 @@ a {
     padding-bottom: 15%;
     margin-top: 5%;
     margin-bottom: 10%;
-   
+}
+
+.btn-group button {
+    z-index:999;
+    float:left;
+    margin:1 20 -20 20;
+    widows: 10px;
+    border-radius:10px;
+}
+}
